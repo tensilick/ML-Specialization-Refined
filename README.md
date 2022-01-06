@@ -4,4 +4,4 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 
 ## Contents
 
-### 1. Machine Le
+### 1. Machine Learning Foundations: A Case Study A
