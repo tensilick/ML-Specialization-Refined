@@ -6,4 +6,4 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 
 ### 1. Machine Learning Foundations: A Case Study Approach
 - A variety of programming assignments covering a wide range of topics.
-- Course details can be found in [Coursera](https://www.
+- Course details can be found in [Coursera](https://www.coursera.org/learn/
