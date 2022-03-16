@@ -8,4 +8,5 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 - A variety of programming assignments covering a wide range of topics.
 - Course details can be found in [Coursera](https://www.coursera.org/learn/ml-foundations)
 
-### 2. Machine Learning: Regressi
+### 2. Machine Learning: Regression
+- Several real-world applicat
