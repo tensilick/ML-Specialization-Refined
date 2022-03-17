@@ -9,4 +9,4 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 - Course details can be found in [Coursera](https://www.coursera.org/learn/ml-foundations)
 
 ### 2. Machine Learning: Regression
-- Several real-world applicat
+- Several real-world applications of regression mode
