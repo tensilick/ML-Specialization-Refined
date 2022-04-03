@@ -10,4 +10,6 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 
 ### 2. Machine Learning: Regression
 - Several real-world applications of regression models.
-- Course details can be found in [Coursera](https://www.coursera.org/learn/ml-regr
+- Course details can be found in [Coursera](https://www.coursera.org/learn/ml-regression)
+
+### 3. Machine Learn
