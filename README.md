@@ -13,4 +13,5 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 - Course details can be found in [Coursera](https://www.coursera.org/learn/ml-regression)
 
 ### 3. Machine Learning: Classification
-- A deeper dive into classification models with practical implementati
+- A deeper dive into classification models with practical implementations.
+- Course details can be 
