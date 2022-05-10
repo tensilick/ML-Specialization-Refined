@@ -16,4 +16,4 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 - A deeper dive into classification models with practical implementations.
 - Course details can be found in [Coursera](https://www.coursera.org/learn/ml-classification)
 
-### 4. Machine L
+### 4. Machine Learning: Clustering & Retr
