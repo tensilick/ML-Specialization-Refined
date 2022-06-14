@@ -17,4 +17,5 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 - Course details can be found in [Coursera](https://www.coursera.org/learn/ml-classification)
 
 ### 4. Machine Learning: Clustering & Retrieval
-- Unsupervised learning techniques and thei
+- Unsupervised learning techniques and their applications.
+-Course
