@@ -20,4 +20,4 @@ This repository is an organized and enhanced version of the Coursera Machine Lea
 - Unsupervised learning techniques and their applications.
 -Course details can be found in [Coursera](https://www.coursera.org/learn/ml-clustering-and-retrieval)
 
-Further details about the courses and assignments can
+Further details about the courses and assignments can be found in the individual folde
